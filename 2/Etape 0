@@ -1,0 +1,127 @@
+THE FACT
+
+Les constantes :
+
+Smell => a delicious cookie smell floats in the air
+Breathe => a delicious cookie smell floats in the air
+Inhale => a delicious cookie smell floats in the air
+Sniff => a delicious cookie smell floats in the air
+
+sing => Let it goooo, let it goooOOOOOO, this cheered you up but unfortunately no one is here to see you dance
+shout => Let it goooo, let it goooOOOOOO, this cheered you up but unfortunately no one is here to see you dance
+yell => Let it goooo, let it goooOOOOOO, this cheered you up but unfortunately no one is here to see you dance
+
+fuck => Oh yeah, such a beautiful word ;-)
+suck => Oh yeah, such a beautiful word
+shit => Oh yeah, such a beautiful word
+
+Cheat => Ah ah nope nope and nope.
+Jump => Coool you are now jumping!
+Play video games => Not possible at the moment sorry (geeek!).
+Find wally => Mhm wally is not there apparently.
+
+Dream => Yep apparently it's a dream within a dream.
+Think => Waaaw such a cooool game!
+
+Remember => I remembered when we just met. Awh such a good moment :-)
+
+Talk to yourslef : Houston we have a problem.
+Listen => Everything is silent.
+
+Inventaire
+
+Etape 0 : exploration de la pièce 
+Passe à l'étape suivante si trouve l'indice concernant la bouteille dans le coin de la pièce
+
+Les gagnants :
+
+----
+
+Explore => Around you some large bare white walls. A massive door and a tiny window. Apparently everything is securely closed. You walk up and down in the room when suddenly you notice something on the ground... Oh wait, there is a little bottle in a corner!
+
+Investigate room => Around you some large bare white walls. A massive door and a tiny window. Apparently everything is securely closed. You walk up and down in the room when suddenly you notice something on the ground.... Oh wait, there is little a bottle in the corner!
+
+Scan room => Around you some large bare white walls. A massive door and a tiny window. Apparently everything is securely closed. You walk up and down in the room when suddenly you notice something on the ground... Oh wait, there is little a bottle in the corner!
+
+Inspect ground => Around you some large bare white walls. A massive door and a tiny window. Apparently everything is securely closed. You walk up and down in the room when suddenly you notice something on the ground... Oh wait, there is little a bottle in the corner!
+
+Look at the ground => Wait is that a bottle in the corner of the room?! Damn it's so dark in here you didn't see it at first glance!
+
+Examine ground => Wait is that a bottle in the corner of the room?! Damn it's so dark in here you didn't see it at first glance!
+
+touch ground W =>ait is that a bottle in the corner of the room?! Damn it's so dark in here you didn't see it at first glance!
+
+Examine ground => Wait is that a bottle in the corner of the room?! Damn it's so dark in here you didn't see it at first glance!
+
+Observe ground => Wait is that a bottle in the corner of the room?! Damn it's so dark in here you didn't see it at first glance!
+
+Inspect floor => Wait is that a bottle in the corner of the room?! Damn it's so dark in here you didn't see it at first glance!
+
+----
+
+Les indicateurs :
+
+Take => Accio, ACCIO!! Damn harry potter's books were lying you didn't get anything. But what about looking at the ground?
+Discover => Yup there is something to dicover somewhere in this room... What about looking at the ground?
+Get  => Accio, ACCIO!! Damn harry potter's books were lying you didn't get anything. But what about looking at the ground?
+Seize => Accio, ACCIO!! Damn harry potter's books were lying you didn't get anything. But what about looking at the ground?
+Grab => Accio, ACCIO!! Damn harry potter's books were lying you didn't get anything. But what about looking at the ground?
+Pick up => Accio, ACCIO!! Damn harry potter's books were lying you didn't get anything. But what about looking at the ground?
+Collect => Accio, ACCIO!! Damn harry potter's books were lying you didn't get anything. But what about looking at the ground?
+
+----
+
+Observe window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. But keep going and continue to explore the room.
+Look window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. But keep going and continue to explore the room.
+Watch window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. But keep going and continue to explore the room.
+Inspect window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. But keep going and continue to explore the room.
+Examine window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. But keep going and continue to explore the room.
+
+Observe walls => I know it's really exciting to observe big white walls. Unfortunately these are no apparent gaps. So keep going and continue to explore the room.
+Look walls => I know it's really exciting to look at walls. Unfortunately these are no apparent gaps. So keep going and continue to explore the room.
+Watch walls => I know it's really exciting to watch walls. Unfortunately these are no apparent gaps. So keep going and continue to explore the room.
+Inspect walls => I know it's really exciting to look at walls. Unfortunately these are no apparent gaps. So keep going and continue to explore the room.
+Examine walls => I know it's really exciting to look at walls. Unfortunately these are no apparent gaps. So keep going and continue to explore the room.
+
+Observe door => The essence of your problem ... An armored door firmly locked, without handle or any holes ...
+Look door =>  The essence of your problem ... An armored door firmly locked, without handle or any holes ...
+Watch door =>  The essence of your problem ... An armored door firmly locked, without handle or any holes ...
+Inspect door =>  The essence of your problem ... An armored door firmly locked, without handle or any holes ...
+Examine door => The essence of your problem ... An armored door firmly locked, without handle or any holes ...
+
+Look outside => Lightning are striking the sky brrrr I would rather be under the blanket with you at the moment.
+View outside => Lightning are striking the sky brrrr I would rather be under the blanket with you at the moment.
+Watch outside => Lightning are striking the sky brrrr I would rather be under the blanket with you at the moment.
+
+Stare at walls => Super cool he?
+Comtemplate walls => Super cool he?
+
+Touch walls => Some hard white walls.
+Touch window => This window is made of glass and does not seem breakable.
+Touch door => An armored door made of metal.
+
+Push window => Knock knock penny?
+Force window => I would not do that if I were you.
+Open window => Locked, as the door...
+Open door => Locked. There must be another way out somewhere.
+
+Free your mind => You are now meditating in the room. Ahhh you feel better. Relaxed. But unfortunately you are always trapped.
+Crack the door => It's locked unfortunately. But there must be another way out somewhere.
+
+Kick walls => Nope, you are not allowed to destroy the decor!
+Hit walls => Nope, you are not allowed to destroy the decor!
+Punch your face => Suicide is not an option
+Strike walls => Nope, you are not allowed to destroy the decor!
+Break window => I won't do that if I were you!
+
+Kiss walls => Houston we have a problem!
+
+Put your hand in the air => Funny but a bit useless in this situation
+
+Turn on the light => Impossible except if you are a god.
+
+Move => I like to move it, move it!
+
+Do => Do the monkey dance => Houston we have a problem!
+
+Draw => on walls. Waaw that's beautiful but it doesn't help.

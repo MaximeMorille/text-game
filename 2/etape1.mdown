@@ -1,0 +1,118 @@
+THE FACT
+
+Les constantes :
+
+Smell => a delicious cookie smell floats in the air
+Breathe => a delicious cookie smell floats in the air
+Inhale => a delicious cookie smell floats in the air
+Sniff => a delicious cookie smell floats in the air
+
+sing => Let it goooo, let it goooOOOOOO, this cheered you up but unfortunately no one is here to see you dance
+shout => Let it goooo, let it goooOOOOOO, this cheered you up but unfortunately no one is here to see you dance
+yell => Let it goooo, let it goooOOOOOO, this cheered you up but unfortunately no one is here to see you dance
+
+Fuck => Oh yeah, such a beautiful word
+Shit => Oh yeah, such a beautiful word
+
+Cheat => Ahah nope nope and nope.
+Jump => Coool I can jump.
+Play video games => Not possible here sorry
+Find wally => Mhm wally is not there apparently.
+
+Dream => Yep apparently it's a dream within a dream.
+Think => Waaaw this game is soooo fun!
+
+Remember => I remembered when we just met. Awh such a good moment :-)
+
+Talk to yourslef : Waw that is such a cool room.
+Listen => Everything is silent.
+
+Les gagnants :
+
+---
+
+Open bottle and drink it => Bwaaaah it's carrot juice! Nothing happens. Nothing? click click click apparently there is something in the bottle.
+
+Drink juice => Bwaaaah it's carrot juice! Nothing happens. Nothing? click click click apparently there is something in the bottle.
+
+---
+
+Force bottle: sorry, hacking the bottle is not an option.
+Break bottle: sorry, hacking the bottle is not an option.
+
+Inspect bottle => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Take bottle => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Watch bottle => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Observe bottle => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Look at bottle  => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Get bottle => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Touch bottle => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Seize bottle => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Grab bottle =>  => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Pick up bottle => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Exaine bottle  => It's a little orange bottle. On the label you can read this mention : Contains traces of candies' woodstick, risk of allergies to ice-creams. Drink me if you dare.
+
+Observe window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. Keep going and continue to explore the room (and especially this strange bottle) though.
+Look window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. Keep going and continue to explore the room (and especially this strange bottle) though.
+Watch window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. Keep going and continue to explore the room (and especially this strange bottle) though.
+Inspect window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. Keep going and continue to explore the room (and especially this strange bottle) though.
+Examine window => You can see some windmills outside (Oh holland <3). Unfortunately the window is still locked. Keep going and continue to explore the room (and especially this strange bottle) though.
+
+Observe walls => I know it's really exciting to observe big white walls. Unfortunately thre are no apparent gaps. So keep going and continue to explore the room (and especially this strange bottle).
+Look walls => I know it's really exciting to look at walls. Unfortunately these are no thre nt gaps. So keep going and continue to explore the room (and especially this strange bottle).
+Watch walls => I know it's really exciting to watch walls. Unfortunately these are no thre nt gaps. So keep going and continue to explore the room (and especially this strange bottle).
+Inspect walls => I know it's really exciting to look at walls. Unfortunately these are thre arent gaps. So keep going and continue to explore the room (and especially this strange bottle).
+Examine walls => I know it's really exciting to look at walls. Unfortunately these are thre arent gaps. So keep going and continue to explore the room (and especially this strange bottle).
+
+Observe door => The essence of your problem ... An armored door firmly locked, without handle or any holes ...  So keep going and continue to explore the room (and especially this strange bottle).
+Look door =>  The essence of your problem ... An armored door firmly locked, without handle or any holes ...  So keep going and continue to explore the room (and especially this strange bottle).
+Watch door =>  The essence of your problem ... An armored door firmly locked, without handle or any holes ...  So keep going and continue to explore the room (and especially this strange bottle).
+Inspect door =>  The essence of your problem ... An armored door firmly locked, without handle or any holes ...  So keep going and continue to explore the room (and especially this strange bottle).
+Examine door => The essence of your problem ... An armored door firmly locked, without handle or any holes ...  So keep going and continue to explore the room (and especially this strange bottle).
+
+Look outside => Lightning are striking the sky brrrr I would rather be under the blanket with you at the moment.
+View outside => Lightning are striking the sky brrrr I would rather be under the blanket with you at the moment.
+Watch outside => Lightning are striking the sky brrrr I would rather be under the blanket with you at the moment.
+
+Stare at walls => Super cool he?
+Comtemplate walls => Super cool he?
+
+Touch walls => Some hard white walls.
+Touch window => This window is made of glass and does not seem breakable.
+Touch door => An armored door made of metal.
+
+Push window => Knock knock penny?
+Force window => I would not do that if I were you.
+Open window => Damn it's lock
+Open door => Locked. There must be another way out somewhere.
+
+Free your mind => You are now meditating in the room. Ahhh you feel better. Relaxed. But unfortunately you are always trapped.
+Crack the door => It's locked unfortunately. But there must be another way out somewhere.
+
+Kick walls => Nope, you are not allowed to destroy the decor!
+Hit walls => Nope, you are not allowed to destroy the decor!
+Punch your face => Suicide is not an option
+Strike walls => Nope, you are not allowed to destroy the decor!
+Break window => I won't do that if I were you!
+
+Kiss walls => Houston we have a problem!
+
+Put your hand in the air => Funny but a bit useless in this situation
+
+Turn on the light => Impossible except if you are a god.
+
+Move => I like to move it, move it!
+
+Do => Do the monkey dance => Houston we have a problem!
+
+Draw => on walls. Waaw that's beautiful but it doesn't help.
